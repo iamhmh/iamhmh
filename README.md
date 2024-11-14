@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Hichem</h1>
-<h3 align="center">A passionate student engineer in AI from France 🇫🇷</h3>
+<h1 align="center">Hi 👋🏼 I'm Hichem</h1>
+<h3 align="center">AI, ML, DL & NLP Student Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [https://iamhmh.github.io/portfolio_HichemGOUIA/](https://iamhmh.github.io/portfolio_HichemGOUIA/)
 
-- 📫 How to reach me **contact.hichemgouia@gmail.com**
+
+- 👀 I’m interested in artificial intelligence, machine learning, neural network and coding 
+- 🎓 MSc Computer Science with Artificial Intelligence at the Epitech Technology of Nancy, France
+- 🌱 I’m currently doing my apprenticeship as fullstack web developer
+- 📚 I do a lot of personal projects in AI or Data
+- 🥑 Check out my portfolio website at [hichemgouia.fr](https://hichemgouia.fr)
+- 📫 You can contact me via email: contact.hichemgouia@gmail.com
