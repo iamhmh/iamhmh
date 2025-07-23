@@ -7,5 +7,4 @@
 - 🎓 MSc Computer Science with Artificial Intelligence at the Epitech Technology of Nancy, France
 - 🌱 I’m currently doing my apprenticeship as fullstack web developer
 - 📚 I do a lot of personal projects in AI or Data
-- 🥑 Check out my portfolio website at [hichemgouia.fr](https://hichemgouia.fr)
 - 📫 You can contact me via email: contact.hichemgouia@gmail.com
